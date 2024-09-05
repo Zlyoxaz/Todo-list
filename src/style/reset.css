@@ -13,7 +13,8 @@ body {
     display: flex;
     flex-direction: column;
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-    background: url("/img/bg.jpg");
+    /* background: url("src/img/bg.jpg"); */
+    background: url("../img/bg.jpg");
     background-size: cover;
     
 }

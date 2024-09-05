@@ -28,19 +28,19 @@
     "json-server": "^0.17.4",
     "prettier": "3.2.5",
     "sass": "^1.63.3",
-    "webpack": "^5.91.0",
+    "webpack": "^5.94.0",
     "webpack-cli": "^5.1.4",
     "webpack-dev-server": "3.11.2",
     "webpack-stream": "^7.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Zlyoxaz/Food.git"
+    "url": "git+https://github.com/Zlyoxaz/Todo-list.git"
   },
   "bugs": {
-    "url": "https://github.com/Zlyoxaz/Food/issues"
+    "url": "https://github.com/Zlyoxaz/Todo-list/issues"
   },
-  "homepage": "https://github.com/Zlyoxaz/Food#readme",
+  "homepage": "https://github.com/Zlyoxaz/Todo-list#readme",
   "description": "",
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
